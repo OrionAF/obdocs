@@ -31,3 +31,33 @@ You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 | Adamantite ore | ✔ |   | 70 |
 | Runite ore | ✔ |   | 85 |
 | Amethyst |  |  ✔ | 92 |
+
+## Woodcutting
+
+You can train woodcutting using `+chop [quantity] <log>`, for example `+chop 10 maple`.
+
+### Logs
+
+| Logs Name | Level |
+| - | :-: |
+| Normal Logs | 1 |
+| Achey Logs | 1 |
+| Oak Logs | 15 |
+| Willow Logs | 30 |
+| Teak Logs | 35 |
+| Maple Logs | 45 |
+| Bark | 45 |
+| Mahogany Logs | 50 |
+| Arctic Pine Logs | 54 |
+| Yew Logs | 60 |
+| Sulliusceps |  65 |
+| Magic Logs | 75 |
+| Redwood Logs | 90 |
+
+### Axes
+| Axe Name | Level | Xp Boost |
+| - | :-: | :-: |
+| Dragon Axe | 61 | 9% |
+| Infernal Axe | 61 | 11% |
+| Gilded Axe | 61 | 12% |
+| 3rd Age Axe | 61 | 13% |

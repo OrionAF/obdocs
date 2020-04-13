@@ -17,7 +17,10 @@ Currently available skills are:<br>
   * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)
   * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)
   * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)
-  * Runecrafting
+  * [Runecrafting](link.here)
+  * Cooking (WIP)
+  * Crafting (WIP)
+  * Slayer (WIP)
   * More skills are being worked on*
   
 You can view your minions' stats using `+m stats`.
@@ -55,9 +58,11 @@ You can view your minions' stats using `+m stats`.
 ### Miscellaneous
  * Questing
  * Skillcapes
+ * Boosts(WIP)
  * Buyable items
  * Boss/Monster requirements
  * Bank backgrounds.
+
 
 ## Agility
 You can train agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
@@ -81,6 +86,7 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
 
 [Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 
 ## Fishing
 You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
@@ -122,6 +128,7 @@ Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
 [Back to top](https://www.oldschool.gg/oldschoolbot/minions)
 
+
 ## Mining
 
 You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
@@ -158,6 +165,7 @@ Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 
 [Back to top](https://www.oldschool.gg/oldschoolbot/minions)
 
+
 ## Smithing
 You can train smithing using `+smith [quantity] <bar>`, for example `+smith 50 bronze bar`.  
 
@@ -180,6 +188,7 @@ Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 
 [Back to top](https://www.oldschool.gg/oldschoolbot/minions)
 
+
 ## Woodcutting
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
@@ -194,15 +203,14 @@ You get boosts from certain axes:
 ### Logs
 | Log | Required level |
 | - | :-: |
-| Tree | 1 |
-| Achey | 1 |
+| Logs | 1 |
 | Oak | 15 |
 | Willow | 30 |
 | Teak | 35 |
 | Maple | 45 |
 | Bark | 45 |
 | Mahogany | 50 |
-| Arctic pine | 54 |
+| Arctic pine logs | 42 |
 | Yew | 60 |
 | Sulliusceps | 65 |
 | Magic | 75 |
@@ -214,6 +222,7 @@ You get boosts from certain axes:
 Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 
 [Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 
 ## Firemaking
 You can train firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
@@ -238,6 +247,31 @@ Wintertodt might get released later!
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
 [Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
+
+## Runecrafting
+You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.  
+
+### Runes
+| Rune | Required level |
+| - | :-: |
+| Air | 1 |
+| Mind | 2 |
+| Water | 5 |
+| Earth | 9 |
+| Fire | 14 |
+| Cosmic | 27 |
+| Chaos | 35 |
+| Astral | 40 |
+| Nature | 44 |
+| Law | 54 |
+| Death | 65 |
+| Wrath | 95 |
+
+Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
+
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 
 # Questing
 You can send your minion out to do quests for 30 minutes using `+quest`.<br>
